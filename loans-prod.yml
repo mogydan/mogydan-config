@@ -2,7 +2,7 @@ build:
   version: "1.3"
 
 accounts:
-  message: "Welcome to EazyBank loan related PROD APIs "
+  message: "Welcome to EazyBank loan related production APIs "
   contactDetails:
     name: "John Doe - PROD"
     email: "john@eazybank.com"
